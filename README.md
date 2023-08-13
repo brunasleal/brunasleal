@@ -35,6 +35,5 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 
-![sNAKE 
-
+![snake gif](https://github.com/brunasleal/brunasleal/blob/output/github-contribution-grid-snake.svg)
 
