@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bruna+Leal+👋)](https://git.io/typing-svg)
 
 - 🧑‍💻 Today, I work with Data Engeering
-- 🌱 I’m currently learning Phyton, R, AWS, Apache Hadoop, Apache Spark
+- 🌱 I’m currently learning Python, R, AWS, Apache Hadoop, Apache Spark
 - 💞️ Pronouns: she/her
 
 <!---
@@ -29,6 +29,3 @@ You can click the Preview link to take a look at your changes.
   <a href = "mailto:bruna_sleal@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruna-silveira-ba9375281/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-![snake gif](https://github.com/brunasleal/brunasleal/blob/output/github-contribution-grid-snake.svg)
-
